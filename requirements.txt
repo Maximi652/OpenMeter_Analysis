@@ -4,3 +4,4 @@ pandas==2.0.3
 pytorch-lightning 
 pytorch-forecasting 
 scikit-learn
+lightning
